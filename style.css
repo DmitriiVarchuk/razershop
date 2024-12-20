@@ -25,7 +25,7 @@ body {
 }
 
 .logo {
-    font-size: 1.8em;
+    font-size: 29px; 
     font-weight: bold;
     color: #00ff00;
     text-transform: uppercase;
@@ -46,7 +46,7 @@ body {
 .hamburger {
     display: none;
     cursor: pointer;
-    font-size: 1.5em;
+    font-size: 24px; 
     color: #00ff00;
 }
 
@@ -61,14 +61,14 @@ body {
 }
 
 .featured-section h2 {
-    font-size: 2.5em;
+    font-size: 40px;
     margin-bottom: 20px;
     text-transform: uppercase;
     color: #00ff00;
 }
 
 .featured-section p {
-    font-size: 1.2em;
+    font-size: 19px; 
     line-height: 1.5;
     margin: 10px 0;
     color: #cccccc;
@@ -78,7 +78,7 @@ body {
     display: inline-block;
     margin-top: 20px;
     padding: 10px 20px;
-    font-size: 1.1em;
+    font-size: 18px; 
     font-weight: bold;
     text-decoration: none;
     color: #000;
@@ -122,7 +122,7 @@ body {
 }
 
 .services h2 {
-    font-size: 2em;
+    font-size: 32px; 
     color: #00ff00;
     margin-bottom: 20px;
 }
@@ -136,7 +136,7 @@ body {
 }
 
 .service-card h3 {
-    font-size: 1.4em;
+    font-size: 22px; 
     color: #00ff00;
 }
 
